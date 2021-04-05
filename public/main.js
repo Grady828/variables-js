@@ -68,13 +68,7 @@ sum: sum,
 average: sum / numbers.length
 
   }
-  console.log(Statistics)
-
-
-          
-        
-
-
+  console.log(Statistics);
 }
 
 
